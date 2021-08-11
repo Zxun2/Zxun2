@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Zxun2/Zxun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">Zong Xun</a></b>.
+    <br>I'm a Computer Science Undergraduate Student from Singapore.<br>
+
+</samp>
+</p>
+
