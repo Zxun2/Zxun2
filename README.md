@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">Zong Xun</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/zong-xun-lee-709a131bb/">Zong Xun</a></b>.
     <br>I'm a Computer Science Undergraduate Student from Singapore.<br>
 
 </samp>
