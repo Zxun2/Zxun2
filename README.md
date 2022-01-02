@@ -18,7 +18,9 @@ Here are some ideas to get you started:
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/zong-xun-lee-709a131bb/">Zong Xun</a></b>.
     <br>I'm a Computer Science Undergraduate Student from Singapore.<br>
-
-</samp>
+   </samp>
 </p>
+
+![Zong Xun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zxun2&show_icons=true&theme=radical&count_private=true)
+
 
