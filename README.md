@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p align="left">
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/zong-xun-lee-709a131bb/">Zong Xun</a></b>.
-    <br>I'm a Computer Science Undergraduate Student from Singapore.<br>
+    <br>I'm a Computer Science and Statistics Undergraduate Student from Singapore.<br>
    </samp>
 </p>
 
