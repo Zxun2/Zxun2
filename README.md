@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 <p align="left">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/zong-xun-lee-709a131bb/">Zong Xun</a></b>.
-    <br>I'm a Computer Science and Statistics Undergraduate Student from Singapore.<br>
+    Hello there 👋! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/zong-xun-lee-709a131bb/">Zong Xun</a></b>.
+    <br/>
+    <br/>
+    I am currently embarking on an undergraduate degree program in Computer Science and Mathematics at the School of Computing, NUS.
+    Highly Interested in field of software engineering, particularly in the applications and design of databases. Also looking to explore in the field of Artificial Intelligence to build my domain knowledge.
    </samp>
 </p>
 
