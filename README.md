@@ -4,6 +4,5 @@
   <hr/> 
 
 <div align="center" markdown="1">
-<img alt="Zong Xun's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Zxun2&show_icons=true&theme=transparent&count_private=true" height="180">
-<img alt="Zong Xun's GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Zxun2&theme=default&hide_border=false" height="180">
+<img alt="Zong Xun's GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Zxun2&theme=default&hide_border=false&compact=true" height="180">
 </div>
