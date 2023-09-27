@@ -3,8 +3,4 @@
 
   <hr/> 
 
-<div align="center" markdown="1">
-<img alt="Zong Xun's GitHub stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Zxun2&theme=default&hide_border=false&compact=true" height="180">
-</div>
-
-  <img alt="View count" src="https://komarev.com/ghpvc/?username=Zxun2&color=green">
+ <img alt="View count" src="https://komarev.com/ghpvc/?username=Zxun2&color=green">
