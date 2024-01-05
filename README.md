@@ -1,6 +1,13 @@
-  <h4> Hello, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/zong-xun-lee-709a131bb/">Zong Xun</a></b>👋 </h4>
-  Highly Interested in the field of software engineering, particularly in the design and application of databases. Looking to explore AI & ML to build my domain knowledge.
+# Hello, I'm <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/lzongxun/">Zong Xun</a> 👋🏻🧑🏻‍💻
 
-  <hr/> 
+I am... 
 
- <img alt="View count" src="https://komarev.com/ghpvc/?username=Zxun2&color=green">
+- 📖 studying **Computer Science and Statistics** at the **National University of Singapore (NUS)**.
+- ⚒️ currently a **Software Engineer** at **Tiktok**, ex-**Jupyterlab** and ex-**CVWO**
+- ⚽ interested in **Software Engineering** and **Artificial Intelligence**
+
+Feel free to connect with me! 🫂
+
+<hr/> 
+
+<img alt="View count" src="https://komarev.com/ghpvc/?username=Zxun2&color=green">
