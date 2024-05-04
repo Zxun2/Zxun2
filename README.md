@@ -3,7 +3,7 @@
 I am... 
 
 - 📖 studying **Computer Science and Statistics** at the **National University of Singapore (NUS)**.
-- ⚒️ currently a **Software Engineer** at **Tiktok**, ex-**Jupyterlab** and ex-**CVWO**
+- ⚒️ a **Software Engineer Intern** at **Tiktok**, ex-**Jupyterlab** and ex-**CVWO**
 - ⚽ interested in **Software Engineering** and **Artificial Intelligence**
 
 Feel free to connect with me! 🫂
