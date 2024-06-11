@@ -5,6 +5,7 @@ I am...
 - 📖 studying **Computer Science and Statistics** at the **National University of Singapore (NUS)**.
 - ⚒️ a **Software Engineer Intern** at **Tiktok**, ex-**Jupyterlab** and ex-**CVWO**
 - ⚽ interested in **Software Engineering** and **Artificial Intelligence**
+- 🤺 appointed **Vice President (External) of Technology** at **NUS Google Developer Student Club (GDSC)**
 
 Feel free to connect with me! 🫂
 
