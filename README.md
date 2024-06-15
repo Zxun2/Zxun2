@@ -5,8 +5,8 @@ I am...
 - 📖 studying **Computer Science and Statistics** at the **National University of Singapore (NUS)**.
 - ⚒️ a **Software Engineer Intern** at **Tiktok**, previously from **Jupyterlab**, **Expensify** and **CVWO**
 - ⚽ interested in **Software Engineering** and **Artificial Intelligence**
-- 🤺 appointed **Vice President (External) of Technology** at **NUS Google Developer Student Club (NUS GDSC)**
-- 😋 a recipient of GIC Computing for Community Fellowship, Major League Hacking Fellowship and NASA Exchange Scholarship 
+- 🤺 currently **Vice President (External)** at **NUS Google Developer Student Club** and **Program Lead** for **NUS SOC TIPS**
+- 😋 a recipient of **GIC Computing for Community Fellowship** and **Major League Hacking Fellowship**
 
 Feel free to connect with me! 🫂
 
