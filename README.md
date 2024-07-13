@@ -10,6 +10,8 @@ I am...
 
 Feel free to connect with me! 🫂
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zxun2&row=2&column=5)](https://github.com/Zxun2/github-profile-trophy)
+
 <hr/> 
 
 <img alt="View count" src="https://komarev.com/ghpvc/?username=Zxun2&color=green">
