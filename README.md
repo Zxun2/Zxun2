@@ -10,7 +10,7 @@ I am...
 
 Feel free to connect with me! 🫂
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zxun2&row=2&column=5)](https://github.com/Zxun2/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zxun2&row=1&column=9)](https://github.com/Zxun2/github-profile-trophy)
 
 <hr/> 
 
