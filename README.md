@@ -6,7 +6,9 @@ I am...
 - ⚒️ a **Software Engineer Intern** at **Tiktok**, previously from **Jupyterlab**, **Expensify** and **CVWO**
 - ⚽ interested in **Software Engineering** and **Artificial Intelligence**
 - 🤺 currently **Vice President (External)** at **NUS Google Developer Student Club** and **Program Lead** for **NUS SOC TIPS**
-- 😋 a recipient of **GIC Computing for Community Fellowship** and **Major League Hacking Fellowship**
+
+
+Looking for various development opportunities, especially large-scale and ambitious ones!
 
 Feel free to connect with me! 🫂
 
