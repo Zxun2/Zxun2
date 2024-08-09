@@ -3,8 +3,8 @@
 I am... 
 
 - 📖 studying **Computer Science and Statistics** at the **National University of Singapore (NUS)**.
-- ⚒️ a **Software Engineer Intern** at **Tiktok**, previously from **Jupyterlab**, **Expensify** and **CVWO**
-- ⚽ interested in **Software Engineering** and **Artificial Intelligence**
+- ⚒️ supporting **TT Live**, **TT Shop**, **TT ECommerce**, and **TT Wallet** operations by scaling **Payments Infrastructure**
+- ⚽ interested in building **Complex**, **Scalable** and **Distributed** systems
 - 🤺 currently **Vice President (External)** at **NUS Google Developer Student Club** and **Program Lead** for **NUS SOC TIPS**
 
 
