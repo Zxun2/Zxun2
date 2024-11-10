@@ -5,7 +5,7 @@ I am...
 - 📖 studying **Computer Science and Statistics** at the **National University of Singapore (NUS)**.
 - ⚒️ supporting **TT Live**, **TT Shop**, **TT ECommerce**, and **TT Wallet** operations by scaling **Payments Infrastructure**
 - ⚽ interested in building **Complex**, **Scalable** and **Distributed** systems
-- 🤺 currently **Vice President (External)** at **NUS Google Developer Student Club** and **Program Lead** for **NUS SOC TIPS**
+- 🤺 currently **Vice President (Technology)** at **NUS Developer Group** and **Program Lead** for **NUS SOC TIPS**
 
 
 Looking for various development opportunities, especially large-scale and ambitious ones!
