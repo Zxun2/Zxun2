@@ -7,7 +7,7 @@ I am...
 - ⚽ interested in building **Complex**, **Scalable** and **Distributed** systems
 - 🤺 currently **Vice President (Technology)** at **NUS Developer Group** and **Program Lead** for **NUS SOC TIPS**
 
-I have previously interned at **CVWO**, **Expensify**, **Jupyterlab**, **Tiktok** and **ByteDance**, with experiences in MLOps, Backend Engineering, DevOps, and Fullstack Development. Please reach out if you have any development opportunities, especially large-scale and ambitious ones!
+I have previously interned at **CVWO**, **Seer AI**, **Expensify**, **Jupyterlab**, **Tiktok** and **ByteDance**, with experiences in MLOps, Backend Engineering, DevOps, and Fullstack Development. Please reach out if you have any development opportunities, especially large-scale and ambitious ones!
 
 Feel free to connect with me! 🫂
 
