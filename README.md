@@ -3,12 +3,11 @@
 I am... 
 
 - 📖 studying **Computer Science and Statistics** at the **National University of Singapore (NUS)**.
-- ⚒️ supporting **TT Live**, **TT Shop**, **TT ECommerce**, and **TT Wallet** operations by scaling **Payments Infrastructure**
+- ⚒️ researching on **Multi-Agentic Systems**, with a focus on **High Entropy Code Edits Recommendation** 
 - ⚽ interested in building **Complex**, **Scalable** and **Distributed** systems
 - 🤺 currently **Vice President (Technology)** at **NUS Developer Group** and **Program Lead** for **NUS SOC TIPS**
 
-
-Looking for various development opportunities, especially large-scale and ambitious ones!
+I have previously interned at **CVWO**, **Expensify**, **Jupyterlab**, **Tiktok** and **ByteDance**, with experiences in MLOps, Backend Engineering, DevOps, and Fullstack Development. Please reach out if you have any development opportunities, especially large-scale and ambitious ones!
 
 Feel free to connect with me! 🫂
 
